@@ -1,0 +1,23 @@
+/*ESTILOS PARA HTML PAGINA DE INICIO*/
+
+body{
+	margin: 0;
+	padding: 0;
+	overflow-x: hidden;
+	font-family: 'Open Sans', sans-serif;
+	background-color: beige;
+}
+
+
+/* primera sección*/
+
+.navbar-default{
+	background-color: transparent;
+	border: none;
+}
+
+.logo{
+	width: 50%;
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
