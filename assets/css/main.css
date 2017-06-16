@@ -50,6 +50,6 @@ p{
 .form-control:-ms-input-placeholder { color: white; }
 
 footer{
-	padding-bottom: 30px;
+	padding:0px;
 	color: white;
 }
