@@ -1,5 +1,4 @@
 
-
 //api drag and drop
 
 function drag(ev){ //ev de event es lo mismo, los atributos pueden variar
